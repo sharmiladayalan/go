@@ -12,7 +12,7 @@ func demo(from string) {
 func main() {
 
 	// Normal function call
-	// Main function waits until demo() completes
+	// Main function waits until demo() xcompletes
 	demo("Direct function call")
 
 	// Goroutine call
